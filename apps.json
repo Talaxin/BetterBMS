@@ -1,0 +1,31 @@
+{
+  "name": "BetterBMS",
+  "identifier": "com.talaxin.betterbms-source",
+  "sourceURL": "https://raw.githubusercontent.com/Talaxin/BetterBMS/main/apps.json",
+  "website": "https://github.com/Talaxin/BetterBMS",
+  "apps": [
+    {
+      "name": "BetterBMS",
+      "bundleIdentifier": "com.talaxin.XiaoXiangBMS",
+      "developerName": "Talaxin",
+      "subtitle": "JBD / CyberCase BLE BMS",
+      "localizedDescription": "BetterBMS talks to JBD (Xiaoxiang) BLE BMS boards such as CyberCase. Live telemetry, MOSFET control, EEPROM parameters, and pack-tuned limits for 4S6P Molicel P45B.\n\nSign and install with Feather using your own certificate.",
+      "iconURL": "https://raw.githubusercontent.com/Talaxin/BetterBMS/main/assets/icon.png",
+      "tintColor": "34C759",
+      "versions": [],
+      "appPermissions": {
+        "bluetooth": "Connects to your BMS over Bluetooth Low Energy."
+      }
+    }
+  ],
+  "news": [
+    {
+      "title": "Source ready",
+      "identifier": "betterbms-source-ready",
+      "caption": "Add this source in Feather. IPA releases will appear here once published.",
+      "tintColor": "34C759",
+      "date": "2026-09-19",
+      "url": "https://github.com/Talaxin/BetterBMS/releases"
+    }
+  ]
+}
