@@ -14,6 +14,14 @@
       "tintColor": "34C759",
       "versions": [
         {
+          "version": "1.3.10",
+          "date": "2026-09-20T04:33:20Z",
+          "localizedDescription": "Protection trip counts: each flag counts up on inactive\u2192active (shown in Real Time sheet + Parameter). MOS software lock explained. Polls BMS 0xAA error counters.",
+          "downloadURL": "https://github.com/Talaxin/BetterBMS/releases/download/v1.3.10/BetterBMS-1.3.10.ipa",
+          "size": 431306,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.3.9",
           "date": "2026-09-20T03:52:08Z",
           "localizedDescription": "Gauge shows Output live (never Idle) when Discharge MOS is on; hardened discharge MOS OFF when FET stayed on after ACK.",
@@ -49,7 +57,7 @@
   ],
   "news": [
     {
-      "title": "1.3.9 — Output live + MOS off",
+      "title": "1.3.9 \u2014 Output live + MOS off",
       "identifier": "betterbms-1-3-9",
       "caption": "Must show 1.3.9 in Mine. Output live when pack can power devices; stronger discharge MOS off.",
       "tintColor": "34C759",
