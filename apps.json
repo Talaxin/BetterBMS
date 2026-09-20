@@ -14,6 +14,14 @@
       "tintColor": "34C759",
       "versions": [
         {
+          "version": "1.3.7",
+          "date": "2026-09-20T03:08:00Z",
+          "localizedDescription": "Tappable Real Time MOS pills; full protections tap sheet; Last command reports undervoltage when it blocks discharge ON; no fake OK (0xe1).",
+          "downloadURL": "https://github.com/Talaxin/BetterBMS/releases/download/v1.3.7/BetterBMS-1.3.7.ipa",
+          "size": 421649,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.3.6",
           "date": "2026-09-19T23:35:00Z",
           "localizedDescription": "Discharge MOS ON fix: clears EEPROM switch bit (0x2D bit0) when it blocks re-enable; keeps balance bits.",
@@ -30,10 +38,10 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "1.3.6",
-      "versionDate": "2026-09-19T23:35:00Z",
-      "size": 397473,
-      "downloadURL": "https://github.com/Talaxin/BetterBMS/releases/download/v1.3.6/BetterBMS-1.3.6.ipa",
+      "version": "1.3.7",
+      "versionDate": "2026-09-20T03:08:00Z",
+      "size": 421649,
+      "downloadURL": "https://github.com/Talaxin/BetterBMS/releases/download/v1.3.7/BetterBMS-1.3.7.ipa",
       "appPermissions": {
         "bluetooth": "Connects to your BMS over Bluetooth Low Energy."
       }
@@ -41,12 +49,12 @@
   ],
   "news": [
     {
-      "title": "1.3.6 — MOS ON fix",
-      "identifier": "betterbms-1-3-6",
-      "caption": "Discharge MOSFET can turn back on. Update via Feather.",
+      "title": "1.3.7 — Real Time MOS + protections",
+      "identifier": "betterbms-1-3-7",
+      "caption": "Tap MOS pills on Real Time; full protections menu; clearer UV Last command. Install via Feather (LG USB still offline).",
       "tintColor": "34C759",
-      "date": "2026-09-19",
-      "url": "https://github.com/Talaxin/BetterBMS/releases/tag/v1.3.6"
+      "date": "2026-09-20",
+      "url": "https://github.com/Talaxin/BetterBMS/releases/tag/v1.3.7"
     }
   ]
 }
