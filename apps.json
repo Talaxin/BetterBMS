@@ -14,6 +14,14 @@
       "tintColor": "34C759",
       "versions": [
         {
+          "version": "1.3.14",
+          "date": "2026-09-20T05:58:34Z",
+          "localizedDescription": "Unlock works offline (saves PIN). Autofill remembered PIN. Forget BMS pairing on Mine.",
+          "downloadURL": "https://github.com/Talaxin/BetterBMS/releases/download/v1.3.14/BetterBMS-1.3.14.ipa",
+          "size": 445245,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.3.13",
           "date": "2026-09-20T05:54:51Z",
           "localizedDescription": "Stop connect/PIN/scan loop. Stable PIN field on Scan for fresh install. No fake ZL 000000 auth.",
